@@ -1,2 +1,2 @@
 TrangEC:CLoned
-add file gitignore
+chua co file gitignore
